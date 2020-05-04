@@ -1,5 +1,6 @@
 # C👏️L👏️A👏️P
-[![Go Report Card](https://goreportcard.com/badge/github.com/asvvvad/clap)](https://goreportcard.com/report/github.com/asvvvad/clap) 
+[![Go Report Card](https://goreportcard.com/badge/github.com/asvvvad/clap)](https://goreportcard.com/report/github.com/asvvvad/clap)
+
 Add👏️emojis👏️between👏️letters👏️and👏️words
 
 ## Installation:
