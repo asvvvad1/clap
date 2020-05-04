@@ -10,16 +10,16 @@ Add👏️emojis👏️between👏️letters👏️and👏️words
 1. Copy text you want to *clap*
 2. `clap`
 3. Clapped👏️and👏️copied!
-4. <key>ctrl</key>+<key>v</key> to paste anywhere
+4. `ctrl`+`v` to paste anywhere
 5. ??
 6. P👏️R👏️O👏️F👏️I👏️T
 
 #### Additional Tip:
-1. Add a system shortcut for `clap -no-out` with a keybinding like <key>ctrl</key>+<key>shift</key>+<key>l</key>
+1. Add a system shortcut for `clap -no-out` with a kbbinding like `ctrl`+`shift`+`l`
 2. in a browser or an app copy the text you want to clap
-    - if you are sending a message for example <key>ctrl</key>+<key>x</key> to cut it then do the following steps
-3. <key>ctrl</key>+<key>shift</key>+<key>l</key> to clap it
-4. <key>ctrl</key>+<key>v</key> to paste it somewhere
+    - if you are sending a message for example `ctrl`+`x` to cut it then do the following steps
+3. `ctrl`+`shift`+`l` to clap it
+4. `ctrl`+`v` to paste it somewhere
 5. ??
 6. P👏️R👏️O👏️F👏️I👏️T
 
